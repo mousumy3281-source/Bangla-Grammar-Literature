@@ -1,0 +1,6 @@
+{
+  "name": "Bangla Grammar App",
+  "description": "Comprehensive Bangla Grammar and Literature learning platform featuring Bangla Sahitya (ancient, medieval, and modern eras, author profiles, masterpieces), grammar lessons, Daily Challenge with study streaks, Sandhi and Samas explorer, and interactive quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
